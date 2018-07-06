@@ -1,0 +1,14 @@
+*{
+	font-family: 'Open Sans', sans-serif;
+}
+.class1 {
+	font-size: 300px; 
+	color: green;
+}
+
+p {
+	font-style: italic;
+	font-weight: bold;
+	shape-outside: margin-box;
+}
+h3 {line-height: all;}
