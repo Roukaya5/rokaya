@@ -1,0 +1,14 @@
+*{
+	margin: 0px;
+	margin-bottom: 10px;
+	background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb-ZGzBNoqZjpSxnDWpYr6gGEOhKYaUDoPU78AEY9BO-E2nIwO' );
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+}
+.title{
+
+h1{
+
+}
